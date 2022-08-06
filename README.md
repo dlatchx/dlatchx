@@ -1,6 +1,12 @@
-### Computer engineer by day, pixel smasher by night
+### Computer engineer by day, pixel crafter by night
+
+Yes, I starred https://github.com/git/git ¯\\\_(ツ)\_/¯
+
+[...]
 
 Contact: https://tfnux.org#contact
+
+Don't follow me, it's a trap.
 
 <!--
 **adraenwan/adraenwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
